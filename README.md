@@ -12,5 +12,6 @@ The folder lib/ contains the source files as a JAR file that you can link to you
 The folder doc/ will soon contain documentation and how to's
 
 The folder examples/ includes some eclipse projects that show how the librar can be used
+
 ->KiCad Example:: This example can convert a KiCad Netlist into VHDL source code so that you can 
   create your structural VHDL description with KiCad schematic editor. 
